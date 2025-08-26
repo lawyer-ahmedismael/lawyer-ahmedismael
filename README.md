@@ -1,8 +1,8 @@
-# اللواء الدكتور محمود شاهين | Colonel Dr. Mahmoud Shaheen
+# أحمد إسماعيل | Ahmed Ismail
 
-موقع ويب احترافي للمحامي المصري اللواء الدكتور محمود شاهين المتخصص في القانون الجنائي والإداري والتجاري.
+موقع ويب احترافي للمحامي المصري أحمد إسماعيل المتخصص في القانون الجنائي والإداري والتجاري.
 
-A professional website for Egyptian lawyer Colonel Dr. Mahmoud Shaheen specialized in criminal, administrative, and commercial law.
+A professional website for Egyptian lawyer Ahmed Ismail specialized in criminal, administrative, and commercial law.
 
 ## 🌟 الميزات | Features
 
