@@ -1,0 +1,249 @@
+{
+  "personal_info": {
+    "name_ar": "أحمد إسماعيل",
+    "name_en": "Ahmed Ismail",
+    "title_ar": "محامي ومستشار قانوني",
+    "title_en": "Egyptian Lawyer & Legal Consultant",
+    "description_ar": "محامي ومستشار قانوني مصري متخصص مع أكثر من 20 عامًا من الخبرة في المحاكم المصرية. حاصل على ليسانس الحقوق، ولديه خبرة واسعة في القانون الجنائي والإداري والتجاري. نقدم خدماتنا القانونية بأعلى معايير المهنية والنزاهة.",
+    "description_en": "Ahmed Ismail is a distinguished Egyptian lawyer with over 20 years of experience in the Egyptian legal system. Specializing in criminal, administrative, commercial, and civil law, he provides expert legal representation and consultation with the highest standards of professionalism and integrity.",
+    "experience_years": "20+",
+    "cases_completed": "+500",
+    "satisfaction_rate": "99%",
+    "hero_subtitle_ar": "خبرة قانونية واسعة في المحاكم المصرية. نقدم استشارات قانونية متخصصة في القانون الجنائي والإداري والتجاري بأعلى معايير المهنية.",
+    "hero_subtitle_en": "Extensive legal experience in Egyptian courts. We provide specialized legal consultation in criminal, administrative, and commercial law with the highest standards of professionalism."
+  },
+  "contact_info": {
+    "email": "info@ahmedismail.com",
+    "phone_eg": "+20 2 1234 5678",
+    "phone_whatsapp": "+201234567890",
+    "address_ar": "شارع النيل، وسط البلد، القاهرة، جمهورية مصر العربية",
+    "address_en": "Legal District, Downtown Cairo, Cairo, Egypt",
+    "working_hours_ar": "الاثنين - الجمعة: 9:00 - 18:00، السبت: 10:00 - 14:00",
+    "working_hours_en": "Monday - Friday: 9:00 - 18:00, Saturday: 10:00 - 14:00"
+  },
+  "social_media": {
+    "whatsapp": "https://wa.me/201234567890",
+    "telegram": "https://t.me/ahmedismail_lawyer",
+    "linkedin": "https://linkedin.com/in/ahmed-ismail-lawyer",
+    "facebook": "https://facebook.com/ahmedismail.lawyer"
+  },
+  "qualifications": {
+    "education_ar": [
+      "ليسانس الحقوق - جامعة القاهرة",
+      "دبلوم القانون الجنائي"
+    ],
+    "education_en": [
+      "Law Degree - Cairo University",
+      "Criminal Law Diploma"
+    ],
+    "memberships_ar": [
+      "عضو نقابة المحامين المصرية",
+      "عضو الاتحاد العربي للمحامين"
+    ],
+    "memberships_en": [
+      "Member of Egyptian Bar Association",
+      "Licensed to practice before all Egyptian courts"
+    ],
+    "languages_ar": [
+      "العربية (اللغة الأم)",
+      "الإنجليزية (بطلاقة)",
+      "الفرنسية (متوسط)"
+    ],
+    "languages_en": [
+      "Arabic (Native)",
+      "English (Fluent)",
+      "French (Intermediate)"
+    ]
+  },
+  "philosophy": {
+    "text_ar": "نؤمن بأن العدالة حق لكل إنسان. نسعى لتحقيق أفضل النتائج لعملائنا من خلال الخبرة القانونية الواسعة والنزاهة المهنية.",
+    "text_en": "We believe every client deserves dedicated attention and strategic legal representation. We strive to achieve the best legal outcomes through thorough preparation and expert advocacy."
+  },
+  "features": {
+    "ar": [
+      "خبرة قانونية واسعة أكثر من 20 عامًا",
+      "شفافية كاملة في التعامل والأتعاب",
+      "متابعة دقيقة لجميع القضايا",
+      "استشارات قانونية متخصصة"
+    ],
+    "en": [
+      "24-hour response time",
+      "Complete fee transparency",
+      "Comprehensive case follow-up",
+      "Multi-language support"
+    ]
+  },
+  "trust_badges": {
+    "ar": [
+      {
+        "icon": "fas fa-clock",
+        "text": "استشارة خلال 24 ساعة"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "سرية تامة"
+      },
+      {
+        "icon": "fas fa-certificate",
+        "text": "عضو نقابة المحامين المصرية"
+      }
+    ],
+    "en": [
+      {
+        "icon": "fas fa-clock",
+        "text": "24-Hour Response"
+      },
+      {
+        "icon": "fas fa-shield-alt",
+        "text": "Complete Confidentiality"
+      },
+      {
+        "icon": "fas fa-certificate",
+        "text": "Bar Association Member"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "text_ar": "تعاملت مع أحمد إسماعيل في قضية تجارية وكانت النتيجة ممتازة. خبرة قانونية واسعة ومتابعة دقيقة.",
+      "text_en": "Ahmed Ismail successfully defended me in a complex criminal case. His expertise and professionalism made all the difference in achieving a favorable outcome.",
+      "author_ar": "أحمد محمد",
+      "author_en": "Ahmed Mohammed",
+      "case_type_ar": "قضية تجارية - القاهرة",
+      "case_type_en": "Criminal Defense - Cairo",
+      "image": "assets/client1.svg"
+    },
+    {
+      "text_ar": "استشارة قانونية ممتازة في قضية إدارية. أحمد إسماعيل محامي محترف ويفهم القانون المصري بعمق.",
+      "text_en": "Excellent handling of my administrative dispute case. The legal consultation was thorough and the court representation was outstanding. Highly recommended.",
+      "author_ar": "فاطمة أحمد",
+      "author_en": "Sarah Ali",
+      "case_type_ar": "قضية إدارية - الجيزة",
+      "case_type_en": "Administrative Law - Alexandria",
+      "image": "assets/client2.svg"
+    },
+    {
+      "text_ar": "خدمة قانونية متميزة في قضية جنائية. أحمد إسماعيل محامي ذو خبرة واسعة ونزاهة.",
+      "text_en": "Professional commercial law services that exceeded my expectations. Contract review and business legal consultation were handled with great expertise and attention to detail.",
+      "author_ar": "محمد علي",
+      "author_en": "Mohammed Hassan",
+      "case_type_ar": "قضية جنائية - الإسكندرية",
+      "case_type_en": "Commercial Law - Giza",
+      "image": "assets/client3.svg"
+    }
+  ],
+  "services": [
+    {
+      "icon": "fas fa-gavel",
+      "title_ar": "القانون الجنائي",
+      "title_en": "Criminal Law",
+      "description_ar": "الدفاع في القضايا الجنائية والجنح أمام المحاكم المصرية",
+      "description_en": "Defense and representation in all criminal cases with extensive experience in Egyptian criminal law",
+      "features_ar": [
+        "الدفاع في قضايا الجنايات",
+        "قضايا الجنح والمخالفات",
+        "الاستئناف والنقض",
+        "التحقيقات والنيابة"
+      ],
+      "features_en": [
+        "Criminal case defense",
+        "Court representation",
+        "Legal consultation and strategy"
+      ]
+    },
+    {
+      "icon": "fas fa-university",
+      "title_ar": "القانون الإداري",
+      "title_en": "Administrative Law",
+      "description_ar": "القضايا الإدارية ومنازعات الجهات الحكومية",
+      "description_en": "Handling administrative disputes and government-related legal matters",
+      "features_ar": [
+        "منازعات الموظفين",
+        "قضايا التعويضات",
+        "الطعون الإدارية",
+        "قضايا الأراضي والعقارات"
+      ],
+      "features_en": [
+        "Administrative disputes",
+        "Government licensing",
+        "Public administration cases"
+      ]
+    },
+    {
+      "icon": "fas fa-handshake",
+      "title_ar": "القانون التجاري",
+      "title_en": "Commercial Law",
+      "description_ar": "الاستشارات القانونية للشركات والأعمال التجارية",
+      "description_en": "Legal services for businesses, contracts, and commercial disputes",
+      "features_ar": [
+        "تأسيس الشركات",
+        "العقود التجارية",
+        "النزاعات التجارية",
+        "الإفلاس والتصفية"
+      ],
+      "features_en": [
+        "Contract drafting and review",
+        "Commercial disputes",
+        "Business legal consultation"
+      ]
+    },
+    {
+      "icon": "fas fa-home",
+      "title_ar": "قانون الأحوال الشخصية",
+      "title_en": "Personal Status Law",
+      "description_ar": "قضايا الزواج والطلاق والميراث والأسرة",
+      "description_en": "Handling family law matters including marriage, divorce, and inheritance",
+      "features_ar": [
+        "قضايا الطلاق والخلع",
+        "النفقة والحضانة",
+        "تقسيم المواريث",
+        "الزواج والعقود"
+      ],
+      "features_en": [
+        "Marriage and divorce cases",
+        "Inheritance disputes",
+        "Child custody matters"
+      ]
+    },
+    {
+      "icon": "fas fa-balance-scale",
+      "title_ar": "القانون المدني",
+      "title_en": "Civil Law",
+      "description_ar": "المنازعات المدنية والتعويضات",
+      "description_en": "Comprehensive civil law services including personal and property rights",
+      "features_ar": [
+        "عقود البيع والشراء",
+        "قضايا التعويضات",
+        "المسؤولية المدنية",
+        "تحصيل الديون"
+      ],
+      "features_en": [
+        "Property disputes",
+        "Contract enforcement",
+        "Civil rights protection"
+      ]
+    },
+    {
+      "icon": "fas fa-comments",
+      "title_ar": "الاستشارات القانونية",
+      "title_en": "Legal Consultation",
+      "description_ar": "استشارات قانونية شاملة في جميع المجالات",
+      "description_en": "Professional legal advice and strategic consultation for all legal matters",
+      "features_ar": [
+        "استشارات فورية",
+        "إعداد المذكرات",
+        "صياغة العقود",
+        "المتابعة القانونية"
+      ],
+      "features_en": [
+        "Legal case evaluation",
+        "Strategic legal planning",
+        "Legal document review"
+      ]
+    }
+  ],
+  "metadata": {
+    "last_updated": "2025-08-28",
+    "version": "1.0"
+  }
+}
